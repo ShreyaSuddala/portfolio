@@ -2,6 +2,7 @@ import { useEffect } from 'react';
 import './App.css';
 import Navbar from './layouts/Navbar';
 import Profile from './components/Profile';
+import SkillSection from './components/Skill/SkillSection';
 
 function App() {
   useEffect(()=>{
@@ -11,8 +12,9 @@ function App() {
     < >
      <Navbar/>
      <div className='container' >
-
      <Profile/>
+    <SkillSection/>
+     
      </div>
     </>
   );

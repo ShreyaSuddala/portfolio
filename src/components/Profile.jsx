@@ -30,7 +30,6 @@ const Profile = () => {
           <div className='tech-icon'>
             <img  src={jsicon} alt=''></img>
           </div>
-
         </div>
       </div>
       
