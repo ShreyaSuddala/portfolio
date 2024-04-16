@@ -3,6 +3,8 @@ import './App.css';
 import Navbar from './layouts/Navbar';
 import Profile from './components/Profile';
 import SkillSection from './components/Skill/SkillSection';
+import Workexperience from './components/workexperience/Workexperience';
+import Contact from './components/Contact/Contact';
 
 function App() {
   useEffect(()=>{
@@ -14,6 +16,8 @@ function App() {
      <div className='container' >
      <Profile/>
     <SkillSection/>
+    <Workexperience/>
+    <Contact/>
      
      </div>
     </>

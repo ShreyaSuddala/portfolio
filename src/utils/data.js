@@ -42,3 +42,25 @@ export const SKILLS = [
     },
 
 ]
+
+
+export const WORKEXPERIENCE =[
+    {
+        title :"Frontend Developer",
+        date : "October 2023 - present",
+        responsibilities:["Assisted in the development of a interviewquestion platform, contributing to the implementation of frontend features using React.js.",
+        "Gained hands-on experience with Git, in a collabarative development environment."]
+    },
+    {
+        title :"Frontend Developer",
+        date : "October 2023 - present",
+        responsibilities:["Assisted in the development of a interviewquestion platform, contributing to the implementation of frontend features using React.js.",
+        "Gained hands-on experience with Git, in a collabarative development environment."]
+    },
+    {
+        title :"Frontend Developer",
+        date : "October 2023 - present",
+        responsibilities:["Assisted in the development of a interviewquestion platform, contributing to the implementation of frontend features using React.js.",
+        "Gained hands-on experience with Git, in a collabarative development environment."]
+    }
+]
